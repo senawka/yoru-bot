@@ -1,7 +1,7 @@
 import discord
 
 client = discord.Client()
-key = "MTA0MTE0ODE3ODAzNDA2NTQyOA.GMHiCf.Bkr1Zm7uDJ5O357l2awWRAOZTh-HsR12aV1_Iw"
+key = ""
 
 block_words = ["dylan", "catz", "minor"]
 
